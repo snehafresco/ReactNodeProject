@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://database_manager:the_resource_agency_management@cluster0-7gjqk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
